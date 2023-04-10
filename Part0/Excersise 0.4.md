@@ -1,4 +1,4 @@
-## Diagrama de Prueba
+## Diagram
 
 
 ```mermaid
